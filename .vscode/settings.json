@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/splash.html",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true
+}

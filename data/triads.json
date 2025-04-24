@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Guardião Solar",
+    "simbolos": ["⚡️", "⭕️", "✨"],
+    "pitch": 1.2,
+    "rate": 1,
+    "voice": "Google português do Brasil"
+  },
+  {
+    "nome": "Mensageiro da Lua",
+    "simbolos": ["🜁", "⚡️", "🌑"],
+    "pitch": 0.9,
+    "rate": 1.1,
+    "voice": "Google português de Portugal"
+  },
+  {
+    "nome": "Viajante Estelar",
+    "simbolos": ["🜂", "🪐", "💫"],
+    "pitch": 1,
+    "rate": 0.9,
+    "voice": "Google português do Brasil"
+  }
+]
